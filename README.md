@@ -4,7 +4,7 @@ Este projeto demonstra uma implementação simples de regressão linear em Pytho
 
 > Nota: os dados atuais são apenas de demonstração e seguem a relação artificial `y = 2x + 1`. Para usar o projeto num cenário real, substitui os dados de exemplo por dados reais e treina novamente o modelo.
 
-## Requisitos
+## Requisitos 
 
 - Python 3.11+
 - Dependências listadas em `requirements.txt`
